@@ -1,0 +1,14 @@
+/Users/Guest/Desktop/Park.Solution/bin/Debug/netcoreapp2.2/Park.Solution.deps.json
+/Users/Guest/Desktop/Park.Solution/bin/Debug/netcoreapp2.2/Park.Solution.runtimeconfig.json
+/Users/Guest/Desktop/Park.Solution/bin/Debug/netcoreapp2.2/Park.Solution.runtimeconfig.dev.json
+/Users/Guest/Desktop/Park.Solution/bin/Debug/netcoreapp2.2/Park.Solution.dll
+/Users/Guest/Desktop/Park.Solution/bin/Debug/netcoreapp2.2/Park.Solution.pdb
+/Users/Guest/Desktop/Park.Solution/obj/Debug/netcoreapp2.2/Park.Solution.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Park.Solution/obj/Debug/netcoreapp2.2/Park.Solution.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Park.Solution/obj/Debug/netcoreapp2.2/Park.Solution.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/Park.Solution/obj/Debug/netcoreapp2.2/Park.Solution.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/Park.Solution/obj/Debug/netcoreapp2.2/Park.Solution.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Park.Solution/obj/Debug/netcoreapp2.2/Park.Solution.AssemblyInfo.cs
+/Users/Guest/Desktop/Park.Solution/obj/Debug/netcoreapp2.2/Park.Solution.RazorTargetAssemblyInfo.cache
+/Users/Guest/Desktop/Park.Solution/obj/Debug/netcoreapp2.2/Park.Solution.dll
+/Users/Guest/Desktop/Park.Solution/obj/Debug/netcoreapp2.2/Park.Solution.pdb
